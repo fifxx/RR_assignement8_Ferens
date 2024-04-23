@@ -7,3 +7,5 @@ format:
   pdf: default
   docx: default
 ---
+
+# 1. Description of the series
